@@ -1,0 +1,8 @@
+﻿  CardShuffling.cpp
+C:\Users\Jefferson\Documents\CardShuffling\CardShuffling\CardShuffling.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jefferson\Documents\CardShuffling\CardShuffling\CardShuffling.cpp(23,17): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\Jefferson\Documents\CardShuffling\CardShuffling\CardShuffling.cpp(24,17): warning C4154: deletion of an array expression; conversion to pointer supplied
+  deal.cpp
+  shuffle.cpp
+  Generating Code...
+  CardShuffling.vcxproj -> C:\Users\Jefferson\Documents\CardShuffling\x64\Debug\CardShuffling.exe
